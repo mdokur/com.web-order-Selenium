@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4a7540c-1ad0-4853-981a-724c0e887036" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_001_LP_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_002_LP_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_003_LP_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_004_CF_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_005_CF_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_006_OP_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_007_OP_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_008_OP_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_009_OP_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_010_VAO_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_011_VAO_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_012_VAO_03.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2aOyybc0Or7PfJ8ENlgL7M5v8EN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/m.denisokur/workspace/com.web-order/src/main/java/org/example/Main.java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.WO_012_VAO_03.verifyUncheckAllFunctionalityInAllOrderPage">
+    <configuration name="WO_007_OP_02.verifyOrderPlacementWithoutCalculation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.web-order" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WO_007_OP_02" />
+      <option name="METHOD_NAME" value="verifyOrderPlacementWithoutCalculation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WO_009_OP_04.verifyOrderPlacementWithoutCardType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.web-order" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WO_009_OP_04" />
+      <option name="METHOD_NAME" value="verifyOrderPlacementWithoutCardType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WO_010_VAO_01.verifyCheckAllFunctionalityInAllOrderPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.web-order" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WO_010_VAO_01" />
+      <option name="METHOD_NAME" value="verifyCheckAllFunctionalityInAllOrderPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WO_011_VAO_02.verifyUncheckAllFunctionalityInAllOrderPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.web-order" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WO_011_VAO_02" />
+      <option name="METHOD_NAME" value="verifyUncheckAllFunctionalityInAllOrderPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WO_012_VAO_03.verifyUncheckAllFunctionalityInAllOrderPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.web-order" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WO_012_VAO_03" />
+      <option name="METHOD_NAME" value="verifyUncheckAllFunctionalityInAllOrderPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WO_012_VAO_03.verifyUncheckAllFunctionalityInAllOrderPage" />
+        <item itemvalue="JUnit.WO_011_VAO_02.verifyUncheckAllFunctionalityInAllOrderPage" />
+        <item itemvalue="JUnit.WO_010_VAO_01.verifyCheckAllFunctionalityInAllOrderPage" />
+        <item itemvalue="JUnit.WO_009_OP_04.verifyOrderPlacementWithoutCardType" />
+        <item itemvalue="JUnit.WO_007_OP_02.verifyOrderPlacementWithoutCalculation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4a7540c-1ad0-4853-981a-724c0e887036" name="Changes" comment="" />
+      <created>1704204180153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704204180153</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
