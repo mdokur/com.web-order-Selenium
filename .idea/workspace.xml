@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4a7540c-1ad0-4853-981a-724c0e887036" name="Changes" comment="The tests of web-order page are added." />
+    <list default="true" id="d4a7540c-1ad0-4853-981a-724c0e887036" name="Changes" comment="The tests of web-order page are added.">
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_013_VAP_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_014_VAP_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -40,27 +47,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/m.denisokur/workspace/com.web-order/src/main/java/org/example/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.WO_012_VAO_03.verifyUncheckAllFunctionalityInAllOrderPage">
-    <configuration name="WO_007_OP_02.verifyOrderPlacementWithoutCalculation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.web-order" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WO_007_OP_02" />
-      <option name="METHOD_NAME" value="verifyOrderPlacementWithoutCalculation" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WO_009_OP_04.verifyOrderPlacementWithoutCardType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.web-order" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WO_009_OP_04" />
-      <option name="METHOD_NAME" value="verifyOrderPlacementWithoutCardType" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.WO_014_VAP_02.verifyAllPriceOfProductsAreVisible">
     <configuration name="WO_010_VAO_01.verifyCheckAllFunctionalityInAllOrderPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.web-order" />
       <option name="PACKAGE_NAME" value="" />
@@ -91,6 +78,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WO_013_VAP_01.verifyAllProductsAreVisible" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.web-order" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WO_013_VAP_01" />
+      <option name="METHOD_NAME" value="verifyAllProductsAreVisible" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WO_014_VAP_02.verifyAllPriceOfProductsAreVisible" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.web-order" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WO_014_VAP_02" />
+      <option name="METHOD_NAME" value="verifyAllPriceOfProductsAreVisible" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WO_014_VAP_02.verifyAllPriceOfProductsAreVisible" />
+        <item itemvalue="JUnit.WO_013_VAP_01.verifyAllProductsAreVisible" />
         <item itemvalue="JUnit.WO_012_VAO_03.verifyUncheckAllFunctionalityInAllOrderPage" />
         <item itemvalue="JUnit.WO_011_VAO_02.verifyUncheckAllFunctionalityInAllOrderPage" />
         <item itemvalue="JUnit.WO_010_VAO_01.verifyCheckAllFunctionalityInAllOrderPage" />
-        <item itemvalue="JUnit.WO_009_OP_04.verifyOrderPlacementWithoutCardType" />
-        <item itemvalue="JUnit.WO_007_OP_02.verifyOrderPlacementWithoutCalculation" />
       </list>
     </recent_temporary>
   </component>
